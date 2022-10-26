@@ -14,7 +14,7 @@ import otp from "./components/OTP.vue";
 
 import { ref } from "vue";
 
-otpValue = ref('')
+const otpValue = ref('')
 </script>
 
 <style>
